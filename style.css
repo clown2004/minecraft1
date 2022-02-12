@@ -1,0 +1,106 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #ff0000;
+  }
+  
+  h1 {
+    width: 255px;
+    margin: 0 auto 8px;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 64px;
+    color: #1000f1;
+  }
+  
+  .container {
+    width: 510px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .site-header {
+    min-width: 550px;
+    height: 186px;
+    margin-bottom: 150px;
+    padding-top: 30px;
+    background: #9800f0 no-repeat center url("img/gloevk-bg.jpg");
+    background-size: cover;
+    color: #2bff00;
+  }
+  
+  .site-header p {
+    width: 255px;
+    margin: 0 auto 26px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px; 
+  }
+  
+  .site-header img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .features {
+    width: 510px;
+    margin: 0 auto 30px;
+    padding: 0 20px;
+  }
+  
+  .features p {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin: 0 5px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    text-transform: uppercase;
+  }
+  
+  .feature-furniture {
+    padding-top: 65px;
+    background-image: url("img/furniture.svg");
+  }
+  
+  .feature-lighting {
+    padding-top: 65px;
+    background-image: url("img/lighting.svg");
+  }
+  
+  .feature-accessories {
+    padding-top: 65px;
+    background-image: url("img/accessories.svg");
+  }
+  
+  .advantages {
+    width: 510px;
+    margin: 0 auto 40px;
+    padding: 0 20px;
+  }
+  
+  .advantages-list {
+    padding: 0;
+  }
+  
+  .site-footer {
+    min-width: 550px;
+    background-color: #000000 ;
+    color: #ffffff;
+  }
+  
+  .site-footer .container {
+    text-align: center;
+  }
+  
+  .site-footer p {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 20px;
+  }
+  
